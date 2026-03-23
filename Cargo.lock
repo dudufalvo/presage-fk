@@ -2420,7 +2420,7 @@ dependencies = [
 [[package]]
 name = "libsignal-service"
 version = "0.1.0"
-source = "git+https://github.com/whisperfish/libsignal-service-rs?rev=3d07d8df33482b2d191c075fdc2b750738a89384#3d07d8df33482b2d191c075fdc2b750738a89384"
+source = "git+https://github.com/dudufalvo/libsignal-service-rs-fk?branch=fix%2Fcontact-details-aci-binary-parsing-presage-stable#ce7959e5f463d0071fc9e9d60142380f53ee16f0"
 dependencies = [
  "aes",
  "aes-gcm",
